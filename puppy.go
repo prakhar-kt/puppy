@@ -1,8 +1,6 @@
 package puppy
 
 import (
-	"fmt"
-
 	"github.com/prakhar-kt/dog"
 )
 
